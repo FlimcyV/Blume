@@ -27,7 +27,7 @@ and empower developers to create stunning 2D games.
 * Cross-Platform: Build games for multiple platforms, including Windows, macOS, and Linux.
 
 
-## How to Use
+## How to Use (Dont do it yet as it is not even close to being avaliable)
 * Clone the repository to your local machine.
 * Open the project in your preferred IDE or code editor.
 * Explore the codebase and documentation to understand Blume's architecture and features.
